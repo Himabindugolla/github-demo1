@@ -7,3 +7,7 @@ int diff(int a,int b)
 {
     retutn a-b
 }
+int mul(int a,int b)
+{
+    retutn a*b
+}
